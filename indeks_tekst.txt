@@ -1,0 +1,46 @@
+
+<!DOCTYPE html>
+<head><title>Cukiernia Malinowa Chmurka</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="grafika/logo.jpg" alt="Cupcake.jpg" title="Malinowa chmurka">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="Strona_główna.html">Strona główna</a></td>
+<td><a href="Cukiernia.html">Cukiernia</a></td>
+<td><a href="oferta.html">Oferta</a></td>
+<td><a href="kontakt.html">Kontakt</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<center>
+<h2> Witaj na stronie Cukierni "Malinowa Chmurka". </h2>
+</center>
+<center>
+<p>
+Naszą specjalnością są głównie artystyczne torty z duszą oraz domowe wypieki. 
+Nasi cukiernicy od podstaw wykształceni przez znanych Mistrzów, tworzą z czekolady i marcepanu prawdziwe arcydzieła. 
+Ciasta, ciastka, ciasteczka, torty – wszystkie te słodkości wychodzą z rąk naszych znakomitych cukierników.
+</p>
+
+<img src="grafika/torty.jpg" width="50%" height="50%"
+</center>
+<ul>
+<li>Oferujemy domowe ciasta z dowozem na każdą okazję. 
+Przygotujemy tort na urodziny, imieniny i rocznicę, a także słodką część przyjęcia (Komunia, Chrzciny). </li>
+<li>Zamów tort weselny oraz ciasta weselne i paczki do gości weselnych, które dodadzą przyjęciu magii.</li>
+<li>Zadbamy o catering na imprezę firmową, ale i o słodkie dni w pracy w firmach i biurowcach.</li>
+<li>W naszej ofercie znajdują się domowe, tradycyjne ciasta, pyszne, porcjowane ciastka, a także maleńkie,
+delikatne i rozpływające się w ustach ciasteczka. Proponujemy również kremowe, kruche tarty. 
+Ciasta z dostawą będą Twoje, kiedy tylko zechcesz. Sprawdź ofertę, wybierz ulubione, 
+czekaj na dostawę i ciesz się obłędnym smakiem! Przekonaj się, że słodki 
+smak naszych wypieków nie ma sobie równych. Z przyjemnością zaopatrzymy Twoją restaurację, 
+kawiarnię czy hotel w wypieki doskonałej jakości, które wzbogacą menu i zachwycą Twoich gości oraz klientów.</li>
+</center>
+</body>

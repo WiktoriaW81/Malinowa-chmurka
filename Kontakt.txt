@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head><title>Kontakt</title></head>
+<body>
+<header>
+<a href="index.html">
+<img src="grafika/logo.jpg" alt="Cupcake.jpg" title="Malinowa chmurka">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="Strona_główna.html">Strona główna</a></td>
+<td><a href="Cukiernia.html">Cukiernia</a></td>
+<td><a href="Oferta.html">Oferta</a></td>
+<td><a href="kontakt.html">Kontakt</a></td>
+</tr>
+</nav>
+<hr>
+
+<h2>Kontakt</h2>
+
+<table>
+<tr>
+<td>
+<header>
+<h3>
+<ul>
+Siedziba Firmy: ul. H. Modrzejewskiej 8; 32-005 Niepołomice 
+</ul>
+<ul>
+Zakład Produkcyjny: ul. Na grobli 2D; 32-005 Niepołomice 
+<li>Sklep nr 1 – KRAKÓW ul. Wielicka 79</li>
+<li>Sklep nr 2 – KRAKÓW ul. Białoruska 12</li>
+<li>Sklep nr 3 – KRAKÓW ul. Myśliwska 78</li>
+<li>Sklep nr 4 – KRAKÓW ul. Spółdzielców 3</li>
+<li>Sklep nr 5 – WIELICZKA ul. Grottgera 33</li>
+<li>Sklep nr 6 – NIEPOŁOMICE ul. Bocheńska 11</li>
+
+</h3>
+</ul>
+<ul>ZAMÓWIENIA OGÓLNE – INFORMACJE
+tel. (12) 385-87-28
+tel. kom. 503-131-483
+e-mail: biuro@cukierniaiwona.pl
+</ul>
+<ul>ZAMÓWIENIA WESELNE
+tel. 503-196-689
+e-mail: biuro@cukierniaiwona.pl
+<img src="grafika/ciastko.jpg" alt="Cupcake.jpg" width="50%" height="50%" align="right"
+</ul>
+</header>
+</td>
+</tr>
+</table>
+</body>
